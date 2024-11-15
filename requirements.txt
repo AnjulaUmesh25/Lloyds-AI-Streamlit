@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+requests
+
+joblib
+streamlit-authenticator==0.4.1
+bcrypt
